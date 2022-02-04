@@ -1,5 +1,5 @@
 # Nettverkmekker
-##Lage nettverk ved hjelp av R, networkD3 og Excel
+## Lage nettverk ved hjelp av R, networkD3 og Excel
 ---
 Dette skriptet er tilpasset etter forespørsel fra SUJO til et prosjekt i en norsk avisredaksjon.
 Filene "graf.R", "grafdata.xlsx" og "graftilpassing.xlsx" legger du i en egnet mappe på maskinen din. 
@@ -27,7 +27,7 @@ Alle navn som skal inn i grafen, må **nevnes minst én gang i kolonne 1.**
 
 I "graftilpassing.xlsx" kan du tilpasse grafen ved å endrep å fonter, fontstørrelse og en del andre parametre. **MERK:** Jeg får foreløpig ikke til å endre størrelsen på nodene. Må forske litt på det, enn så lenge vil dere ikke kunne justere nodestørrelser.I
 
-###Lage ny graf
+### Lage ny graf
 Etter å ha lagt til data, lukk alle Excel-filer.
 Kjør R-programmet. Det gjør du ved å skrive dette i konsollen:
 
