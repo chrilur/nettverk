@@ -14,8 +14,8 @@ Etter å ha installert disse programmene, åpne Rstudio. I konsollen må du navi
 
 Deretter må du installere noen R-pakker. Skriv:
 
-`install.packages("networkD3")
-install.packages("htmlwidgets")
+`install.packages("networkD3")<br>
+install.packages("htmlwidgets")<br>
 install.packages("readxl")
 `
 
@@ -27,6 +27,7 @@ Alle navn som skal inn i grafen, må nevnes minst én gang i kolonne 1.
 I "graftilpassing.xlsx" kan du tilpasse grafen. MERK: Jeg får foreløpig ikke til å endre størrelsen på nodene. Må forske litt på det, enn så lenge vil dere ikke kunne justere nodestørrelser.I
 
 Lukk alle Excel-filer før du kjører R-programmet. Det gjør du ved å skrive dette i konsollen:
+
 `source("graf.R")`
 
 Da genereres en html-fil i samme mappe som filene dine. Du kan åpne denne i en nettleser.
