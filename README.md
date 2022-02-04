@@ -32,5 +32,5 @@ Lukk alle Excel-filer før du kjører R-programmet. Det gjør du ved å skrive d
 
 `source("graf.R")`
 
-Da genereres en html-fil i samme mappe som filene dine. Du kan åpne denne i en nettleser.
+Da genereres en html-fil i samme mappe som filene. Du kan åpne denne i en nettleser.
 Lykke til!
