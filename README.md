@@ -14,8 +14,10 @@ Etter å ha installert disse programmene, åpne Rstudio. I konsollen må du navi
 
 Deretter må du installere noen R-pakker. Skriv:
 
-`install.packages("networkD3")<br>
-install.packages("htmlwidgets")<br>
+`install.packages("networkD3")
+
+install.packages("htmlwidgets")
+
 install.packages("readxl")
 `
 
